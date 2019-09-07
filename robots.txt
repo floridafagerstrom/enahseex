@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uvabeyeith.geopytool.com/sitemap.xml
